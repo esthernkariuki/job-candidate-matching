@@ -1,0 +1,6 @@
+type,id,name_or_title,text
+candidate,1,Alice,"Experienced Python developer with Django and data science."
+candidate,2,Bob,"Java developer with expertise in Spring Boot and microservices."
+job,101,Backend Python Dev,"Looking for a Python developer with Django and REST API experience."
+job,102,Java Engineer,"Seeking engineer skilled in Java and Spring framework."
+
